@@ -1,0 +1,473 @@
+# Copyright (C) 2017 Array
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pocket 5.2.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2017-01-16 17:04:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:20
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"Sorry, but the page you are looking for has moved or no longer exists. "
+"Please use the search below, or the menu above to locate the missing page."
+msgstr ""
+
+#: comments.php:21
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: custom-archive.php:45
+msgid "Latest Posts"
+msgstr ""
+
+#: custom-archive.php:52
+msgid "Archive By Day"
+msgstr ""
+
+#: custom-archive.php:59
+msgid "Archive By Month"
+msgstr ""
+
+#: custom-archive.php:66
+msgid "Contributors"
+msgstr ""
+
+#: custom-archive.php:73
+msgid "Pages"
+msgstr ""
+
+#: custom-archive.php:80
+msgid "Categories"
+msgstr ""
+
+#: customizer.php:43 customizer.php:140
+msgid "Disable"
+msgstr ""
+
+#: customizer.php:44 customizer.php:141
+msgid "Enable"
+msgstr ""
+
+#: customizer.php:59 customizer.php:120
+msgid "Dark"
+msgstr ""
+
+#: customizer.php:60 customizer.php:121
+msgid "Light"
+msgstr ""
+
+#: customizer.php:78
+msgid "Theme Options"
+msgstr ""
+
+#: customizer.php:86
+msgid "Logo Upload"
+msgstr ""
+
+#: customizer.php:99
+msgid "Accent Color"
+msgstr ""
+
+#: customizer.php:116
+msgid "Color Scheme"
+msgstr ""
+
+#: customizer.php:136
+msgid "Grayscale Featured Image Effect"
+msgstr ""
+
+#: customizer.php:153
+msgid "Custom CSS"
+msgstr ""
+
+#: footer.php:39
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:41
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: format-quote.php:18
+msgid "Permalink to %s"
+msgstr ""
+
+#: format-quote.php:36 format-standard.php:66
+msgid "Previous Post"
+msgstr ""
+
+#: format-quote.php:37 format-standard.php:67
+msgid "Next Post"
+msgstr ""
+
+#: format-standard.php:55
+msgid "Edit Post"
+msgstr ""
+
+#: functions.php:64
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:169
+msgid "Newer Posts"
+msgstr ""
+
+#: functions.php:172
+msgid "Older Posts"
+msgstr ""
+
+#: functions.php:181
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:205
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:207
+msgid "Widgets in this area will be shown in the left footer area."
+msgstr ""
+
+#: functions.php:213
+msgid "Footer Center"
+msgstr ""
+
+#: functions.php:215
+msgid "Widgets in this area will be shown in the center footer area."
+msgstr ""
+
+#: functions.php:221
+msgid "Footer Right"
+msgstr ""
+
+#: functions.php:223
+msgid "Widgets in this area will be shown in the right footer area."
+msgstr ""
+
+#: functions.php:242
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:244
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:244
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:257
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:299
+msgid "Page %s"
+msgstr ""
+
+#: header.php:29
+msgid "Menu"
+msgstr ""
+
+#: header.php:30
+msgid "Close"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:14
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:60
+msgid ""
+"There seems to be a problem retrieving the latest updates information from "
+"Array. Please check back later."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:77
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:79
+msgid ""
+"Thanks for purchasing %1$s! We truly appreciate the support and the "
+"opportunity to share our work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:86
+msgid "Help File"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:87
+msgid "License"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:88
+msgid "Latest Updates"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:91
+msgid "Support Forum &rarr;"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:112
+msgid ""
+"This help file feed seems to be temporarily down. You can view the help "
+"file on Array in the mean time."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:112
+msgid "Help File &rarr;"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:131
+msgid "Install the Array Toolkit"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:132
+msgid "The Array Toolkit is a plugin that adds various features to your theme."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:132
+msgid "requires the Array Toolkit to enable the following features:"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:136
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:140
+msgid "Custom Galleries"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:145
+msgid "Slider Items"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:149
+msgid "Install Array Toolkit Plugin"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:158
+#: includes/admin/getting-started/getting-started.php:161
+msgid "Visit the Knowledge Base"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:159
+msgid ""
+"New to the WordPress world? Our Knowledge Base has over 20 video tutorials, "
+"from installing WordPress to working with themes and more."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:165
+msgid "Theme Support"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:166
+msgid ""
+"If you have a question about your theme, send us a message via our Creative "
+"Market profile page. Simply click the little envelope under our bio to send "
+"us a message."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:167
+msgid "Send Us A Message"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:167
+msgid "Send Us A Message &rarr;"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:175
+msgid "Activate your license for seamless updates!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:179
+msgid ""
+"Add your license key to get theme updates without leaving your dashboard! "
+"Find your license key in your Array Dashboard in the <a class=\"thickbox\" "
+"href=\"%s\">Downloads</a> section. Save your key and then click the "
+"Activate button."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:187
+msgid "Enter your license key:"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:191
+msgid "Save License Key"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:196
+msgid "Your license is active!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:198
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:201
+msgid "License saved! Click to activate &rarr;"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:202
+msgid "Activate License"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:211
+msgid "Updating Your Theme"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:216
+msgid ""
+"Once your license key is activated, you can download and install theme "
+"updates by going to Appearance &rarr; Themes. A <a class=\"thickbox\" "
+"href=\"%s\">notice</a> will be displayed when an update is available."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:220
+msgid ""
+"The update process will grab the latest theme files from Array and replace "
+"your current theme. Any changes you&apos;ve made to the theme files will be "
+"overwritten, so be sure to back up your theme before updating!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:228
+msgid "Latest Theme Updates"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:259
+msgid ""
+" %1$s activated! Visit the <a href=\"%2$s\">Getting Started</a> page to "
+"view the help file, install the Array Toolkit or ask us a question. "
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:261
+msgid "<a href=\"%1$s\">Hide this notice</a>"
+msgstr ""
+
+#: includes/admin/metabox/metabox.php:21
+msgid "Video"
+msgstr ""
+
+#: includes/admin/metabox/metabox.php:49
+msgid ""
+"Add video to your page by entering the video's <a class=\"thickbox\" "
+"href=\"%1$s\">embed code</a> in the box above (optional). "
+msgstr ""
+
+#: includes/admin/theme-updater/theme-updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: index.php:24
+msgid "%d <span>results for</span> \"%s\""
+msgstr ""
+
+#: index.php:28
+msgid "Tag /"
+msgstr ""
+
+#: index.php:31
+msgid "Archive /"
+msgstr ""
+
+#: index.php:33
+msgid "Month /"
+msgstr ""
+
+#: index.php:35
+msgid "Year /"
+msgstr ""
+
+#: index.php:37
+msgid "Category /"
+msgstr ""
+
+#: index.php:39
+msgid "Author /"
+msgstr ""
+
+#: index.php:71
+msgid "Nothing found"
+msgstr ""
+
+#: index.php:78
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: index.php:82
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: index.php:87
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Pocket"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://array.is/themes/pocket-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Pocket is a super simple, photoblog-style WordPress theme for sharing your "
+"images, videos, articles, quotes and more. Use it as a personal blog or a "
+"minimal portfolio to show off your latest work!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Array"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://array.is"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Custom Archive"
+msgstr ""
+
+#: functions.php:94
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""

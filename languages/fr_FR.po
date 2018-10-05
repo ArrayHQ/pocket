@@ -1,0 +1,513 @@
+# Copyright (C) 2014 Array
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pocket\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/pocket\n"
+"POT-Creation-Date: 2017-01-16 11:11-0600\n"
+"PO-Revision-Date: 2017-06-07 11:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Array\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: 404.php:20
+msgid "Page Not Found"
+msgstr "Aucune page trouvée"
+
+#: 404.php:26
+msgid ""
+"Sorry, but the page you are looking for has moved or no longer exists. "
+"Please use the search below, or the menu above to locate the missing page."
+msgstr ""
+"La page a été déplacée ou n’existe plus. Merci d’utiliser la recherche, ci-"
+"dessous, ou le menu, ci-dessus, pour trouver ce que vous recherchez."
+
+#: comments.php:21
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cette publication est protégée. Entrez le mot de passe pour voir les "
+"commentaires."
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires Récents &rarr;"
+
+#: custom-archive.php:45
+msgid "Latest Posts"
+msgstr "Récentes publications"
+
+#: custom-archive.php:52
+msgid "Archive By Day"
+msgstr "Archives par jour"
+
+#: custom-archive.php:59
+msgid "Archive By Month"
+msgstr "Archives par mois"
+
+#: custom-archive.php:66
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: custom-archive.php:73
+msgid "Pages"
+msgstr "Pages"
+
+#: custom-archive.php:80
+msgid "Categories"
+msgstr "Categories"
+
+#: customizer.php:43 customizer.php:140
+msgid "Disable"
+msgstr "Désactiver"
+
+#: customizer.php:44 customizer.php:141
+msgid "Enable"
+msgstr "Activer"
+
+#: customizer.php:59 customizer.php:120
+msgid "Dark"
+msgstr "Sombre"
+
+#: customizer.php:60 customizer.php:121
+msgid "Light"
+msgstr "Clair"
+
+#: customizer.php:78
+msgid "Theme Options"
+msgstr "Options Thème"
+
+#: customizer.php:86
+msgid "Logo Upload"
+msgstr "Chargement Logo"
+
+#: customizer.php:99
+msgid "Accent Color"
+msgstr "Couleur Accent"
+
+#: customizer.php:116
+msgid "Color Scheme"
+msgstr "Schéma de couleur"
+
+#: customizer.php:136
+msgid "Grayscale Featured Image Effect"
+msgstr "Effet d’image en vedette en niveaux de gris"
+
+#: customizer.php:153
+msgid "Custom CSS"
+msgstr "CSS Personalisé"
+
+#: footer.php:39
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:41
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème: %1$s par %2$s."
+
+#: format-quote.php:18
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalien vers %s"
+
+#: format-quote.php:36 format-standard.php:66
+msgid "Previous Post"
+msgstr "Ancien Article"
+
+#: format-quote.php:37 format-standard.php:67
+msgid "Next Post"
+msgstr "Nouvel Article"
+
+#: format-standard.php:55
+msgid "Edit Post"
+msgstr "Modifier l’article"
+
+#: functions.php:64
+msgid "Header Menu"
+msgstr "Menu de l’en-tête"
+
+#: functions.php:65
+msgid "Footer Menu"
+msgstr "Menu Pied de Page"
+
+#: functions.php:169
+msgid "Newer Posts"
+msgstr "Articles plus récents"
+
+#: functions.php:172
+msgid "Older Posts"
+msgstr "Articles plus anciens"
+
+#: functions.php:181
+msgid "Continue Reading"
+msgstr "Lire la suite"
+
+#: functions.php:205
+msgid "Footer Left"
+msgstr "Pied de Page Gauche"
+
+#: functions.php:207
+msgid "Widgets in this area will be shown in the left footer area."
+msgstr ""
+"Les widgets dans cette zone s’affichent dans la partie gauche du pied de "
+"page."
+
+#: functions.php:213
+msgid "Footer Center"
+msgstr "Centre Pied de Page"
+
+#: functions.php:215
+msgid "Widgets in this area will be shown in the center footer area."
+msgstr ""
+"Les widgets dans cette zone seront affichés dans la zone centrale du bas de "
+"page."
+
+#: functions.php:221
+msgid "Footer Right"
+msgstr "Pied de Page Droite"
+
+#: functions.php:223
+msgid "Widgets in this area will be shown in the right footer area."
+msgstr ""
+"Les widgets dans cette zone s’affichent dans la zone droite du bas de page."
+
+#: functions.php:242
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=« fn »>%s</cite>"
+
+#: functions.php:244
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: functions.php:244
+msgid "(Edit)"
+msgstr "(Editer)"
+
+#: functions.php:257
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions.php:299
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:30
+msgid "Close"
+msgstr "Fermer"
+
+#: includes/admin/getting-started/getting-started.php:14
+msgid "Getting Started"
+msgstr "Commencer"
+
+#: includes/admin/getting-started/getting-started.php:60
+msgid ""
+"There seems to be a problem retrieving the latest updates information from "
+"Array. Please check back later."
+msgstr ""
+"Il semble y avoir un problème pour récupérer les dernières informations sur "
+"les mises à jour d’Array. Veuillez revenir plus tard."
+
+#: includes/admin/getting-started/getting-started.php:77
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Commencer Avec %1$s v%2$s"
+
+#: includes/admin/getting-started/getting-started.php:79
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! We truly appreciate the support and the "
+"opportunity to share our work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"Merci d’avoir acheté %1$s ! Nous apprécions vraiment le soutien et "
+"l’opportunité de partager notre travail avec vous. Visitez les onglets ci-"
+"dessous pour commencer à configurer votre thème!"
+
+#: includes/admin/getting-started/getting-started.php:86
+msgid "Help File"
+msgstr "Fichier d’aide"
+
+#: includes/admin/getting-started/getting-started.php:87
+msgid "License"
+msgstr "Licence"
+
+#: includes/admin/getting-started/getting-started.php:88
+msgid "Latest Updates"
+msgstr "Dernières Mise à Jours"
+
+#: includes/admin/getting-started/getting-started.php:91
+msgid "View support forum"
+msgstr "Voir le forum de support"
+
+#: includes/admin/getting-started/getting-started.php:91
+msgid "Support Forum &rarr;"
+msgstr "Forum Support &rarr;"
+
+#: includes/admin/getting-started/getting-started.php:112
+msgid ""
+"This help file feed seems to be temporarily down. You can view the help file "
+"on Array in the mean time."
+msgstr ""
+"Ce fichier d’aide semble être temporairement désactivé. Vous pouvez afficher "
+"le fichier d’aide sur Array entre temps."
+
+#: includes/admin/getting-started/getting-started.php:112
+msgid "Help File &rarr;"
+msgstr "Fichier d’aide &rarr;"
+
+#: includes/admin/getting-started/getting-started.php:131
+msgid "Install the Array Toolkit"
+msgstr "Installer Array Toolkit"
+
+#: includes/admin/getting-started/getting-started.php:132
+msgid "The Array Toolkit is a plugin that adds various features to your theme."
+msgstr ""
+"Array Toolkit est un plugin qui ajoute diverses fonctionnalités à votre "
+"thème."
+
+#: includes/admin/getting-started/getting-started.php:132
+msgid "requires the Array Toolkit to enable the following features:"
+msgstr "nécessite Array Toolkit pour activer les fonctionnalités suivantes:"
+
+#: includes/admin/getting-started/getting-started.php:136
+msgid "Portfolio Items"
+msgstr "Objet Portfolio"
+
+#: includes/admin/getting-started/getting-started.php:140
+msgid "Custom Galleries"
+msgstr "Galeries personnalisées"
+
+#: includes/admin/getting-started/getting-started.php:145
+msgid "Slider Items"
+msgstr "Objet Slider"
+
+#: includes/admin/getting-started/getting-started.php:149
+msgid "Install Array toolkit"
+msgstr "Installer Array toolkit"
+
+#: includes/admin/getting-started/getting-started.php:149
+msgid "Install Array Toolkit Plugin"
+msgstr "Installer Array Toolkit Plugin"
+
+#: includes/admin/getting-started/getting-started.php:158
+#: includes/admin/getting-started/getting-started.php:161
+msgid "Visit the Knowledge Base"
+msgstr "Visiter la base de connaissance"
+
+#: includes/admin/getting-started/getting-started.php:159
+msgid ""
+"New to the WordPress world? Our Knowledge Base has over 20 video tutorials, "
+"from installing WordPress to working with themes and more."
+msgstr ""
+"Nouveau dans le monde de WordPress? Notre Base de connaissances possède plus "
+"de 20 vidéos, depuis l’installation de WordPress jusqu’à la travailler avec "
+"des thèmes et plus encore."
+
+#: includes/admin/getting-started/getting-started.php:161
+msgid "Visit the knowledge base"
+msgstr "Visiter la Base de Connaissance"
+
+#: includes/admin/getting-started/getting-started.php:165
+msgid "Theme Support"
+msgstr "Support Thème"
+
+#: includes/admin/getting-started/getting-started.php:166
+msgid ""
+"If you have a question about your theme, send us a message via our Creative "
+"Market profile page. Simply click the little envelope under our bio to send "
+"us a message."
+msgstr ""
+"Si vous avez une question sur votre thème, envoyez-nous un message via notre "
+"page de profil Creative Market. Cliquez simplement sur la petite enveloppe "
+"sous notre biographie pour nous envoyer un message."
+
+#: includes/admin/getting-started/getting-started.php:167
+msgid "Send Us A Message &rarr;"
+msgstr "Envoyez Nous Un Message &rarr;"
+
+#: includes/admin/getting-started/getting-started.php:175
+msgid "Activate your license for seamless updates!"
+msgstr "Activer votre licence pour des mises à jour sans interruption!"
+
+#: includes/admin/getting-started/getting-started.php:179
+#, php-format
+msgid ""
+"Add your license key to get theme updates without leaving your dashboard! "
+"Find your license key in your Array Dashboard in the <a class=\"thickbox\" "
+"href=\"%s\">Downloads</a> section. Save your key and then click the Activate "
+"button."
+msgstr ""
+"Ajoutez votre clé de licence pour obtenir des mises à jour de thème sans "
+"quitter votre tableau de bord! Trouvez votre clé de licence dans votre "
+"tableau de bord Array dans la section <a class=« thickbox » href=« %s »> "
+"Téléchargements </a>. Enregistrez votre clé, puis cliquez sur le bouton "
+"Activer."
+
+#: includes/admin/getting-started/getting-started.php:187
+msgid "Enter your license key:"
+msgstr "Entrer votre clé de licence :"
+
+#: includes/admin/getting-started/getting-started.php:191
+msgid "Save License Key"
+msgstr "Sauvegarder clé de licence"
+
+#: includes/admin/getting-started/getting-started.php:196
+msgid "Your license is active!"
+msgstr "Votre licence est activée !"
+
+#: includes/admin/getting-started/getting-started.php:198
+msgid "Deactivate License"
+msgstr "Désactiver la Licence"
+
+#: includes/admin/getting-started/getting-started.php:201
+msgid "License saved! Click to activate &rarr;"
+msgstr "Licence sauvegardée! Cliquer pour activer &rarr;"
+
+#: includes/admin/getting-started/getting-started.php:202
+msgid "Activate License"
+msgstr "Activer Licence"
+
+#: includes/admin/getting-started/getting-started.php:211
+msgid "Updating Your Theme"
+msgstr "Mettre à Jour Votre Thème"
+
+#: includes/admin/getting-started/getting-started.php:216
+#, php-format
+msgid ""
+"Once your license key is activated, you can download and install theme "
+"updates by going to Appearance &rarr; Themes. A <a class=\"thickbox\" href="
+"\"%s\">notice</a> will be displayed when an update is available."
+msgstr ""
+"Une fois que votre clé de licence est activée, vous pouvez télécharger et "
+"installer des mises à jour de thème en allant à Apparence & rarr; Thèmes. "
+"Une <a class=« thickbox » href=« %s »> notice </a> sera affichée lorsqu’une "
+"mise à jour est disponible."
+
+#: includes/admin/getting-started/getting-started.php:220
+msgid ""
+"The update process will grab the latest theme files from Array and replace "
+"your current theme. Any changes you&apos;ve made to the theme files will be "
+"overwritten, so be sure to back up your theme before updating!"
+msgstr ""
+"Le processus de mise à jour prendra les derniers fichiers de thème de Array "
+"et remplacera votre thème actuel. Toute modification que vous avez faite sur "
+"les fichiers du thème sera écrasée, assurez-vous de sauvegarder votre thème "
+"avant la mise à jour!"
+
+#: includes/admin/getting-started/getting-started.php:228
+msgid "Latest Theme Updates"
+msgstr "Dernières mises à jour thème"
+
+#: includes/admin/getting-started/getting-started.php:259
+#, php-format
+msgid ""
+" %1$s activated! Visit the <a href=\"%2$s\">Getting Started</a> page to view "
+"the help file, install the Array Toolkit or ask us a question. "
+msgstr ""
+"%1$ s activé! Visitez la page <a href=« %2$s »> Mise en route </a> pour "
+"afficher le fichier d’aide, installer le Array toolkit ou nous poser une "
+"question."
+
+#: includes/admin/getting-started/getting-started.php:261
+#, php-format
+msgid "<a href=\"%1$s\">Hide this notice</a>"
+msgstr "<a href=« %1$s »>Masquer cette notice</a>"
+
+#: includes/admin/metabox/metabox.php:21
+msgid "Video"
+msgstr "Video"
+
+#: includes/admin/metabox/metabox.php:49
+#, php-format
+msgid ""
+"Add video to your page by entering the video's <a class=\"thickbox\" href="
+"\"%1$s\">embed code</a> in the box above (optional). "
+msgstr ""
+"Ajoutez une vidéo à votre page en entrant <a class=« thickbox » "
+"href=« %1$s »> code d’intégration </a> de la vidéo dans la zone ci-dessus "
+"(facultatif)."
+
+#: includes/admin/theme-updater/theme-updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"La mise à jour de ce thème perdra toute personnalisation que vous avez "
+"faite. ‘Annuler’ pour arrêter, ‘OK’ pour mettre à jour."
+
+#: index.php:24
+#, php-format
+msgid "%d <span>results for</span> \"%s\""
+msgstr "%d <span>résultats pour</span> « %s »"
+
+#: index.php:28
+msgid "Tag /"
+msgstr "Mots clés /"
+
+#: index.php:31
+msgid "Archive /"
+msgstr "Archive /"
+
+#: index.php:33
+msgid "Month /"
+msgstr "Mois /"
+
+#: index.php:35
+msgid "Year /"
+msgstr "Année /"
+
+#: index.php:37
+msgid "Category /"
+msgstr "Catégories /"
+
+#: index.php:39
+msgid "Author /"
+msgstr "Autheur /"
+
+#: index.php:71
+msgid "Nothing found"
+msgstr "Rien trouvé"
+
+#: index.php:78
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt a publier votre premier article ? <a href=« %1$s »>Démarrer ici</a>."
+
+#: index.php:82
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspondait à vos termes de recherche. Veuillez "
+"réessayer avec d’autres mots-clés."
+
+#: index.php:87
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne trouvons pas ce que vous recherchez. Peut-être que la "
+"recherche peut vous aider."
